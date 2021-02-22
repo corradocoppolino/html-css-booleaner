@@ -1,7 +1,7 @@
 header
 {
     background-color:dodgerblue;
-    background-image: url("file:///Users/francescacoppolino/Desktop/Boolean/html-css-booleaner/img/pattern.png");
+    background-image: url(../img/pattern.png);
     background-repeat: repeat-x;
 }
 
@@ -36,4 +36,12 @@ main{width: 90%;margin:auto;}
 .sottolineato{background-color: yellow;}
 
 ul{margin-left: -20px;}
+
+thead{background-color: lightskyblue;}
+
+.primoscomparto{width: 300px;}
+
+.secondoscomparto{width: 1000px;}
+
+.colorata{background-color: lightblue;}
 
