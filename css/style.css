@@ -37,7 +37,13 @@ main{width: 90%;margin:auto;}
 
 ul{margin-left: -20px;}
 
-thead{background-color: lightskyblue;}
+table{border-collapse: collapse;}
+
+thead
+{
+    background-color: lightskyblue;
+    text-align: left;
+}
 
 .primoscomparto{width: 300px;}
 
@@ -48,3 +54,5 @@ thead{background-color: lightskyblue;}
 #titolofooter{color: grey;}
 
 footer{width: 90%;margin:auto;}
+
+#link{color: darkcyan;}
