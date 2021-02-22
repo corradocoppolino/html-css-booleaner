@@ -13,3 +13,22 @@ header
     margin-left: 80px;
 }
 
+main{width: 90%;margin:auto;}
+
+#titolo{font-size: 50px;}
+
+#sottotitolo
+{
+    font-size: 20px;
+    margin-top: -40px;
+}
+
+#data
+{
+    font-size: 15px;
+    margin-top: -20px;
+}
+
+#nospazio1{margin-top: -6px;}
+#nospazio2{margin-top: -20px;}
+
