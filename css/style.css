@@ -15,7 +15,7 @@ header
 
 main{width: 90%;margin:auto;}
 
-#titolo{font-size: 50px;}
+.titolo{font-size: 50px;}
 
 #sottotitolo
 {
@@ -45,3 +45,6 @@ thead{background-color: lightskyblue;}
 
 .colorata{background-color: lightblue;}
 
+#titolofooter{color: grey;}
+
+footer{width: 90%;margin:auto;}
